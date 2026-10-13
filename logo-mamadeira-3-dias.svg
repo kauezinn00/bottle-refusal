@@ -1,0 +1,13 @@
+<svg width="768" height="512" viewBox="0 0 768 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(42 78)">
+    <path d="M82 18h86v42l28 31v170c0 58-47 105-105 105H70C32 366 1 335 1 297V91l29-31V18h52Z" fill="#EAF8F0" stroke="#4FA879" stroke-width="13" stroke-linejoin="round"/>
+    <path d="M30 60h137" stroke="#4FA879" stroke-width="13" stroke-linecap="round"/>
+    <path d="M54 152h91M54 200h91" stroke="#70BE93" stroke-width="12" stroke-linecap="round"/>
+    <path d="M81 18V-3h35v21" stroke="#4FA879" stroke-width="13" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(274 126)">
+    <text x="0" y="72" fill="#1E3429" font-family="Arial, Helvetica, sans-serif" font-size="61" font-weight="900" letter-spacing="-2">MAMADEIRA</text>
+    <text x="0" y="144" fill="#4FA879" font-family="Arial, Helvetica, sans-serif" font-size="67" font-weight="900" letter-spacing="-3">3 DIAS</text>
+    <text x="4" y="190" fill="#66756E" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="2">PROTOCOLO PERSONALIZADO</text>
+  </g>
+</svg>
